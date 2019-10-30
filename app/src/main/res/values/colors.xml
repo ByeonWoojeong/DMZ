@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <color name="colorPrimary">#000000</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#000000</color>
+    <color name="white">#ffffff</color>
+    <color name="bottom_gray">#6E7176</color>
+    <color name="life_color">#87BF3E</color>
+    <color name="peace_color">#29AAE3</color>
+    <color name="healing_color">#EE6926</color>
+    <color name="text_red">#FE5051</color>
+    <color name="guide_start_color">#FF4F51</color>
+    <color name="toolbar_text_color">#1D1D1D</color>
+    <color name="popup_click_text_color">#5B5B5B</color>
+    <color name="synopsis_color">#353535</color>
+    <color name="synopsis_text_color">#787878</color>
+    <color name="popup_addr_text_color">#7C7B7B</color>
+    <color name="under_line">#eaeaea</color>
+    <color name="popup_button_color">#616161</color>
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DMZ</string>
+    <string name="domain">https://dmz.globalhu.kr/</string>
+    <string name="kakao_app_key">2a6b4463c2e2f3457b4fa98ed94679cd</string>
+    <string name="kakao_scheme">kakao2a6b4463c2e2f3457b4fa98ed94679cd</string>
+    <string name="kakaolink_host">kakaolink</string>
+    <string name="facebook_app_id">1507482516003241</string>
+</resources>

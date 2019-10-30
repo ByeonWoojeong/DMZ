@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/guide3_7"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:id="@+id/cancel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="22dp"
+        android:layout_marginTop="19dp">
+
+        <ImageView
+            android:layout_width="15dp"
+            android:layout_height="14dp"
+            android:layout_gravity="center"
+            android:layout_marginRight="8dp"
+            android:src="@drawable/cancel" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="닫기"
+            android:textColor="@color/white"
+            android:textSize="@dimen/guide_cancel_textsize" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:paddingBottom="120dp">
+
+        <TextView
+            android:id="@+id/guide7_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="58dp"
+            android:gravity="center"
+            android:lineSpacingMultiplier="0.8"
+            android:textColor="@color/white"
+            android:textSize="@dimen/guide_content_textsize" />
+
+        <CheckBox
+            android:id="@+id/check"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:button="@null"
+            android:drawableRight="@drawable/guide_check"
+            android:text="다시 보지 않기  "
+            android:textAlignment="center"
+            android:textColor="@color/white"
+            android:textSize="@dimen/guide_check_textsize" />
+    </LinearLayout>
+</LinearLayout>

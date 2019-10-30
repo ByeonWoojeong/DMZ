@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="guide_cancel_textsize">13dp</dimen>
+    <dimen name="guide_content_textsize">27dp</dimen>
+    <dimen name="guide_check_textsize">15dp</dimen>
+    <dimen name="toolbar_text_size">18dp</dimen>
+    <dimen name="popup_addr_text_size">14dp</dimen>
+    <dimen name="popup_synopsis_size">12dp</dimen>
+    <dimen name="popup_text_size">17dp</dimen>
+</resources>
